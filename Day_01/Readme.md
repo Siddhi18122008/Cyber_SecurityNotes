@@ -1,28 +1,69 @@
-# Day 01 - Cybersecurity Session: Ethical Hacking
+# Day_01 - Introduction to Cyber Security
 
-## What is Cybersecurity?
+## 1️⃣ Definition, Importance, and Scope
 
-Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.
+**Cyber Security** is the practice of protecting computer systems, networks, and data from unauthorized access, theft, damage, or disruption.  
+It ensures the confidentiality, integrity, and availability of information systems.
 
-## 3 Domains in Cybersecurity
+- **Importance**:  
+  - Protects sensitive data.
+  - Prevents financial losses.
+  - Safeguards personal privacy.
+  - Maintains business continuity.
+  - Ensures national security.
 
-Cybersecurity is broadly classified into three main domains:
-
-- **Blue Team (Defensive Security)**: Focuses on defending and protecting systems from attacks.
-- **Red Team (Offensive Security)**: Focuses on simulating attacks to test the security posture.
-- **Purple Team (Combined Security)**: A collaboration between Red and Blue teams to improve security through shared knowledge.
-
-## Top Cybersecurity Topics
-
-- Network Security
-- Application Security
-- Cloud Security
-- Incident Response
-- Threat Hunting
-- Vulnerability Assessment
-- Penetration Testing
-- Security Operations Center (SOC)
-- Governance, Risk, and Compliance (GRC)
+- **Scope**:  
+  - Network Security
+  - Application Security
+  - Information Security
+  - Cloud Security
+  - Endpoint Security
+  - Operational Security
 
 ---
 
+## 2️⃣ Types of Cyber Threats
+
+- Malware (Viruses, Worms, Trojans, Ransomware, Spyware)
+- Phishing Attacks
+- Denial of Service (DoS) / Distributed Denial of Service (DDoS)
+- Man-in-the-Middle Attacks
+- SQL Injection
+- Zero-day Exploits
+- Insider Threats
+- Advanced Persistent Threats (APT)
+
+---
+
+## 3️⃣ Basic Concepts of CIA
+
+- **Confidentiality**: Protecting information from unauthorized access.
+- **Integrity**: Ensuring information is accurate and unaltered.
+- **Availability**: Ensuring systems and data are accessible when needed.
+
+---
+
+## 4️⃣ Cybersecurity Ethics
+
+- Respect user privacy.
+- Do not engage in unauthorized access.
+- Use skills for defensive purposes.
+- Report vulnerabilities responsibly.
+- Maintain professional integrity.
+
+---
+
+## 5️⃣ Principles and Best Practices
+
+- Apply the principle of least privilege.
+- Keep systems and software updated.
+- Use strong, unique passwords.
+- Implement multi-factor authentication (MFA).
+- Regularly back up data.
+- Conduct security awareness training.
+- Monitor systems continuously.
+- Have an incident response plan.
+
+---
+
+✅ *Notes collected from live session.*
