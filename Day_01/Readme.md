@@ -26,4 +26,3 @@ Cybersecurity is broadly classified into three main domains:
 
 ---
 
-✅ *Notes collected from live session.*
