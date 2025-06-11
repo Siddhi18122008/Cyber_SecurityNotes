@@ -66,4 +66,3 @@ It ensures the confidentiality, integrity, and availability of information syste
 
 ---
 
-✅ *Notes collected from live session.*
