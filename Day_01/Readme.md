@@ -1,4 +1,4 @@
-# Day_01 - Introduction to Cybersecurity
+9# Day_01 - Introduction to Cybersecurity
 
 ## 📌 What is Cybersecurity?
 
@@ -80,4 +80,3 @@ Cybersecurity is the practice of defending computers, servers, mobile devices, e
 
 ---
 
-✅ *Notes collected from live session.*
