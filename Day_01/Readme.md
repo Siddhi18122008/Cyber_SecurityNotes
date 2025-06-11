@@ -1,4 +1,4 @@
-9# Day_01 - Introduction to Cybersecurity
+# Day_01 - Introduction to Cybersecurity
 
 ## 📌 What is Cybersecurity?
 
