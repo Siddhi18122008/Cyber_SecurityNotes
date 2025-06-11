@@ -1,68 +1,83 @@
-# Day_01 - Introduction to Cyber Security
+# Day_01 - Introduction to Cybersecurity
 
-## 1️⃣ Definition, Importance, and Scope
+## 📌 What is Cybersecurity?
 
-**Cyber Security** is the practice of protecting computer systems, networks, and data from unauthorized access, theft, damage, or disruption.  
-It ensures the confidentiality, integrity, and availability of information systems.
+Cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It ensures:
 
-- **Importance**:  
-  - Protects sensitive data.
-  - Prevents financial losses.
-  - Safeguards personal privacy.
-  - Maintains business continuity.
-  - Ensures national security.
-
-- **Scope**:  
-  - Network Security
-  - Application Security
-  - Information Security
-  - Cloud Security
-  - Endpoint Security
-  - Operational Security
+- Confidentiality of data
+- Integrity of information
+- Availability of systems and services
 
 ---
 
-## 2️⃣ Types of Cyber Threats
+## 📌 What We Do in Cybersecurity
 
-- Malware (Viruses, Worms, Trojans, Ransomware, Spyware)
+- Identify security risks and vulnerabilities
+- Implement security measures and controls
+- Monitor and respond to incidents
+- Perform ethical hacking and penetration testing
+- Conduct forensic investigations after attacks
+- Educate users on safe practices
+
+---
+
+## 📌 Reel vs Real in Cybersecurity
+
+| Reel (Myth) | Real (Fact) |
+|--------------|-------------|
+| Hackers wear hoodies and type fast | Cybersecurity is more about analysis, strategy, and patience |
+| Instant hacking | Real-world attacks often take days, weeks, or months |
+| Hacking is always illegal | Ethical hacking (penetration testing) is legal and essential |
+| One person handles all security | Cybersecurity is a team effort involving multiple roles |
+
+---
+
+## 📌 Cybersecurity is Important For:
+
+- Individuals (protect personal data, privacy)
+- Businesses (protect financial data, intellectual property)
+- Governments (national security, critical infrastructure)
+- Healthcare (patient records, medical devices)
+- Financial Institutions (banking systems, transactions)
+- Education (student data, research information)
+
+---
+
+## 📌 Types of Cybersecurity Threats
+
+- Malware (Viruses, Worms, Ransomware, Spyware)
 - Phishing Attacks
-- Denial of Service (DoS) / Distributed Denial of Service (DDoS)
 - Man-in-the-Middle Attacks
+- Denial of Service (DoS) / Distributed Denial of Service (DDoS)
 - SQL Injection
-- Zero-day Exploits
 - Insider Threats
+- Zero-Day Exploits
 - Advanced Persistent Threats (APT)
 
 ---
 
-## 3️⃣ Basic Concepts of CIA
+## 📌 Red Team vs Purple Team vs Blue Team
 
-- **Confidentiality**: Protecting information from unauthorized access.
-- **Integrity**: Ensuring information is accurate and unaltered.
-- **Availability**: Ensuring systems and data are accessible when needed.
-
----
-
-## 4️⃣ Cybersecurity Ethics
-
-- Respect user privacy.
-- Do not engage in unauthorized access.
-- Use skills for defensive purposes.
-- Report vulnerabilities responsibly.
-- Maintain professional integrity.
+| Team | Role |
+|------|------|
+| **Red Team** | Offensive security - simulates attacks to identify weaknesses |
+| **Blue Team** | Defensive security - protects, monitors, and responds to threats |
+| **Purple Team** | Collaborative approach - combines Red and Blue Teams to improve security |
 
 ---
 
-## 5️⃣ Principles and Best Practices
+## 📌 Introduction to GitHub
 
-- Apply the principle of least privilege.
-- Keep systems and software updated.
-- Use strong, unique passwords.
-- Implement multi-factor authentication (MFA).
-- Regularly back up data.
-- Conduct security awareness training.
-- Monitor systems continuously.
-- Have an incident response plan.
+- GitHub is a platform for version control and collaboration.
+- It uses **Git** for tracking changes in code and documentation.
+- Allows multiple people to work together on projects.
+- Supports:
+  - Repositories
+  - Branches
+  - Commits
+  - Pull Requests
+  - Issues and Discussions
 
 ---
 
+✅ *Notes collected from live session.*
